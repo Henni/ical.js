@@ -28,6 +28,7 @@ ROLE:Project Leader
 SOUND:CID:JOHNQPUBLIC.part8.19960229T080000.xyzMail@example.com
 SOURCE:ldap://ldap.example.com/cn=Babs%20Jensen\,%20o=Babsco\,%20c=US
 TEL;VALUE=uri;TYPE=home:tel:+33-01-23-45-67
+TEL;VALUE=uri;TYPE=work;TYPE=voice:tel:+33-89-01-23-45
 TITLE:Research Scientist
 TZ;VALUE=utc-offset:-0500
 XML:<html xmlns="http://www.w3.org/1999/xhtml"></html>
